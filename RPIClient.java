@@ -14,6 +14,8 @@ public class RPIClient {
     private float humidity;
 
     public RPIClient(String hostname, int port){
+        temperature = 0;
+        humidity = 0;
         connect(hostname, port);
     }
 
