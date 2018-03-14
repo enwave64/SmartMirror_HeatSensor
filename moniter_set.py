@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Modified & Programmed by Elliott Watson on 2/13/18:
+# Modified & Programmed by Elliott Watson on 3/13/18:
 # closely modeled on  Pero Krivić's script, but with different subprocess mechanics
 # https://helentronica.com/2016/01/11/magic-mirror-with-motion-detector/
  
