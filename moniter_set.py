@@ -10,12 +10,12 @@ import RPi.GPIO as io
 import subprocess
  
 io.setmode(io.BCM)
-SHUTOFF_DELAY = 30  # seconds
+SHUTOFF_DELAY = 7 # seconds
 PIR_PIN = 4         # pin 7 on the board
 
-# commands to turn the monitor on and off
-MONITOR_ON = ["vcgencmd", "display_power", "0"]
-MONITOR_OFF = ["vcgencmd", "display_power", "1"]
+# system command arguments to turn the monitor on and off
+MONITOR_ON = ["vcgencmd", "display_power", "1"] 
+MONITOR_OFF = ["vcgencmd", "display_power", "0"]
  
 def main():
     io.setup(PIR_PIN, io.IN)
@@ -24,7 +24,7 @@ def main():
  
     while True:
         if io.input(PIR_PIN):
-            print("motion detected")
+            #print("motion detected")
             last_motion_time = time.time()
             sys.stdout.flush()
             if turned_off:

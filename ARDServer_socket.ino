@@ -88,6 +88,13 @@ void loop() {
     while(client.connected()){
       Serial.println("client connected");
       if (client.available()){
+        delay(2000);
+        h = dht.readHumidity();
+        // Read temperature as Celsius (the default)
+        t = dht.readTemperature();
+        // Read temperature as Fahrenheit (isFahrenheit = true)
+        f = dht.readTemperature(true);
+        hif = dht.computeHeatIndex(f, h);
 
         Serial.println("client available");
         char c = '\0';
