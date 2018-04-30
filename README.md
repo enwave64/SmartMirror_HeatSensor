@@ -8,7 +8,7 @@ Roles:
 
     - Amar: Project Manager, Test Engineer
 
-    - Michelle: Lead Software Developer: gui.py, client.py
+    - Michelle: Lead Software Developer, Programmer: gui.py, client.py
 
     - Cameron: Lead Test Engineer, Architecture Design
 
