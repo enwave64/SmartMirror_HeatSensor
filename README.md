@@ -2,7 +2,7 @@
 
 ## Team: Amar Haqqi, Michelle Jagelid, Cameron Scott, Elliott Watson
 
-Syopsis: This is a project for CS 576: Networks & Distributed Systems, SDSU, with Professor Wei Wang. It consists of a Raspberry Pi 3 based Smart Mirror, with ethernetworked Arduino based climate (temperature/humidity/heat index) station.
+Synopsis: This is a project for CS 576: Networks & Distributed Systems, SDSU, with Professor Wei Wang. It consists of a Raspberry Pi 3 based Smart Mirror, with ethernetworked Arduino based climate (temperature/humidity/heat index) station.
 
 Roles:
 
