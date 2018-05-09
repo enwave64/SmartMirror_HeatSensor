@@ -6,9 +6,9 @@ Synopsis: This is a project for CS 576: Networks & Distributed Systems, SDSU, wi
 
 Roles:
 
-    - Amar: Project Manager, Test Engineer
+    - Amar: Project Manager, Test Engineer, Architecture Design
 
-    - Michelle: Lead Software Developer, Programmer: gui.py, client.py
+    - Michelle: Lead Software Developer, Programmer: gui.py, client.py, Architecture Design
 
     - Cameron: Lead Test Engineer, Architecture Design
 
