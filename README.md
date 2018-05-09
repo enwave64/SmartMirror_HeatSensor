@@ -10,7 +10,7 @@ Roles:
 
     - Michelle: Lead Software Developer, Programmer: gui.py, client.py, Architecture Design
 
-    - Cameron: Lead Test Engineer, Architecture Design
+    - Cameron: Lead Test Engineer, Architecture Design, Hardware Systems Integration
 
     - Elliott: Lead Architecture Design, Hardware Systems Integration, Programmer: ARDServer_socket.ino, moniter_set.py, client.py
 
