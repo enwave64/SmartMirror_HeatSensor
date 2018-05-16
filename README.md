@@ -19,3 +19,6 @@ Hardware components: Arduino Uno, W5500 Ethernet Shield, AM2321 Heat Sensor, Net
 Software files: ARDServer\_socket.ino, client.py, gui.py, moniter_set.py
 
 Instructions: coming soon...
+
+![alt text](https://github.com/enwave64/SmartMirror_HeatSensor/blob/master/images/IMG_20180421_115744723.jpg)
+
