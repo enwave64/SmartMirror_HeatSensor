@@ -22,3 +22,5 @@ Instructions: coming soon...
 
 ![alt text](https://github.com/enwave64/SmartMirror_HeatSensor/blob/master/images/IMG_20180421_115744723.jpg)
 
+![alt text](https://github.com/enwave64/SmartMirror_HeatSensor/blob/master/images/IMG_20180309_131823704.jpg)
+
