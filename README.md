@@ -12,7 +12,7 @@ Roles:
 
     - Cameron: Lead Test Engineer, Architecture Design, Hardware Systems Integration
 
-    - Elliott: Lead Architecture Design, Hardware Systems Integration, Programmer: ARDServer_socket.ino, moniter_set.py, client.py
+    - Elliott: Team Leader, Lead Architecture Design, Programmer: ARDServer_socket.ino, moniter_set.py, client.py
 
 Hardware components: Arduino Uno, W5500 Ethernet Shield, AM2321 Heat Sensor, Netgear GS305 Network Switch, Raspberry Pi 3, PIR Motion Sensor, 32" LCD TV, Two-Way glass, Beautiful cardboard finish, ethernet cables, wires, breadboard
 
